@@ -1,0 +1,17 @@
+import java.util.Arrays;
+public class May8 {
+  public static void main(String[] args) {
+    // REVERSE THE NUMBERS.
+    int arr[]={1,4,6,11,12,3,2};
+    int start=0;
+    int end=arr.length-1;
+    while(start<end){
+      int temp=arr[start];
+      arr[start]=arr[end];
+      arr[end]=temp;
+      start++;
+      end--;
+    }
+    System.out.println(Arrays.toString(arr));
+  } 
+}
