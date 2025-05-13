@@ -88,6 +88,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Bhanu - [your.email@example.com](mailto:your.email@example.com)
+Mail Id - [mbhanuvardhan630@gmail.com](mailto:mbhanuvardhan630@gmail.com)
+
+Linkedin Profile - [https://www.linkedin.com/in/bhanu-vardhan-medapalli/](connect_to:https://www.linkedin.com/in/bhanu-vardhan-medapalli/)
 
 Project Link: [https://github.com/Bhanu8199/IMPACT-TRAINING-JAVA-DSA-PARUL-UNIVERSITY](https://github.com/Bhanu8199/IMPACT-TRAINING-JAVA-DSA-PARUL-UNIVERSITY)
