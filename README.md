@@ -2,15 +2,6 @@
 
 This repository contains the materials and code for the Java Data Structures and Algorithms training program conducted at Parul University. The goal of this program is to equip students with essential skills in Java programming, data structures, and algorithm design.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Course Structure](#course-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Installation
 
 1. Clone the repository:
